@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-privacy-policy](screens/privacy-policy)
 - [screen-terms-and-conditions](screens/terms-and-conditions)
 - [screen-notifications-preference](screens/notifications-preference)
+- [screen-direct-messages](screens/direct-messages)
 
 # Getting started: Frontend
 
