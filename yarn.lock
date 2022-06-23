@@ -1217,10 +1217,10 @@
 "@screens/login@file:./screens/login":
   version "1.0.0"
 
-"@screens/notifications-preference@file:./screens/notifications-preference":
+"@screens/menu@file:./screens/menu/":
   version "1.0.0"
 
-"@screens/notifications-preference@file:./screens/notifications-preference/":
+"@screens/notifications-preference@file:./screens/notifications-preference":
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
