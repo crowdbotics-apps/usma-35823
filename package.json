@@ -21,6 +21,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
+    "@screens/profile": "file:./screens/profile/",
     "@screens/terms-and-conditions": "file:./screens/terms-and-conditions/",
     "@screens/welcome": "file:./screens/welcome/",
     "axios": "^0.21.1",
